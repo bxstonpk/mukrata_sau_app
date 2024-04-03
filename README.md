@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-03 at 13 13 02]()# mukrata_sau_app
+# mukrata_sau_app
 
 หมูกะทะ
 
